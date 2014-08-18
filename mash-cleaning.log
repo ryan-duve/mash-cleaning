@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.3.27)  18 AUG 2014 15:41
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.3.27)  18 AUG 2014 15:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -397,19 +397,19 @@ Package pdftex.def Info: ./mash-cleaning-schematic-3-pump-gas-to-ext-tank.png u
 sed on input line 55.
 (pdftex.def)             Requested size: 345.0pt x 180.42834pt.
 
-<./mash-cleaning-schematic-4-gas-to-t3.png, id=19, 873.2625pt x 456.70625pt>
-File: ./mash-cleaning-schematic-4-gas-to-t3.png Graphic file (type png)
+<./mash-cleaning-schematic-4-gas-to-t1.png, id=19, 873.2625pt x 456.70625pt>
+File: ./mash-cleaning-schematic-4-gas-to-t1.png Graphic file (type png)
 
-<use ./mash-cleaning-schematic-4-gas-to-t3.png>
-Package pdftex.def Info: ./mash-cleaning-schematic-4-gas-to-t3.png used on inpu
+<use ./mash-cleaning-schematic-4-gas-to-t1.png>
+Package pdftex.def Info: ./mash-cleaning-schematic-4-gas-to-t1.png used on inpu
 t line 64.
 (pdftex.def)             Requested size: 345.0pt x 180.42834pt.
 
-<./mash-cleaning-schematic-5-pump-gas-to-t3.png, id=20, 873.2625pt x 456.70625p
+<./mash-cleaning-schematic-5-pump-gas-to-t1.png, id=20, 873.2625pt x 456.70625p
 t>
-File: ./mash-cleaning-schematic-5-pump-gas-to-t3.png Graphic file (type png)
- <use ./mash-cleaning-schematic-5-pump-gas-to-t3.png>
-Package pdftex.def Info: ./mash-cleaning-schematic-5-pump-gas-to-t3.png used on
+File: ./mash-cleaning-schematic-5-pump-gas-to-t1.png Graphic file (type png)
+ <use ./mash-cleaning-schematic-5-pump-gas-to-t1.png>
+Package pdftex.def Info: ./mash-cleaning-schematic-5-pump-gas-to-t1.png used on
  input line 73.
 (pdftex.def)             Requested size: 345.0pt x 180.42834pt.
 
@@ -430,8 +430,8 @@ Package pdftex.def Info: ./mash-cleaning-schematic-7-measure-trapped-gas.png us
 ed on input line 90.
 (pdftex.def)             Requested size: 345.0pt x 180.42834pt.
  [2 <./mash-cleaning-schematic-2-gas-to-ext-tank.png> <./mash-cleaning-schemati
-c-3-pump-gas-to-ext-tank.png>] [3 <./mash-cleaning-schematic-4-gas-to-t3.png> <
-./mash-cleaning-schematic-5-pump-gas-to-t3.png>] [4 <./mash-cleaning-schematic-
+c-3-pump-gas-to-ext-tank.png>] [3 <./mash-cleaning-schematic-4-gas-to-t1.png> <
+./mash-cleaning-schematic-5-pump-gas-to-t1.png>] [4 <./mash-cleaning-schematic-
 6-repeat.png> <./mash-cleaning-schematic-7-measure-trapped-gas.png>] (./mash-cl
 eaning.aux) ) 
 Here is how much of TeX's memory you used:
@@ -450,7 +450,7 @@ xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on mash-cleaning.pdf (4 pages, 263422 bytes).
+Output written on mash-cleaning.pdf (4 pages, 263482 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
