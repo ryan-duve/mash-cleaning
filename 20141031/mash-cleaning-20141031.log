@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.3.27)  19 AUG 2014 12:08
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.3.27)  3 NOV 2014 11:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**mash-cleaning.tex
-(./mash-cleaning.tex
+**mash-cleaning-20141031.tex
+(./mash-cleaning-20141031.tex
 LaTeX2e <2011/06/27>
 Babel <3.9f> and hyphenation patterns for 2 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -272,33 +272,6 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(/usr/share/texlive/texmf-dist/tex/latex/savetrees/savetrees.sty
-Package: savetrees 2013/04/09 v2.1 Pack as much text as possible onto each page
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
-
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-\XKV@toks=\toks17
-\XKV@tempa@toks=\toks18
-\XKV@depth=\count88
-File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
-))
-\everypar=\toks19
-)
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
-\ttl@box=\box26
-\beforetitleunit=\skip43
-\aftertitleunit=\skip44
-\ttl@plus=\dimen105
-\ttl@minus=\dimen106
-\ttl@toksa=\toks20
-\titlewidth=\dimen107
-\titlewidthlast=\dimen108
-\titlewidthfirst=\dimen109
-)
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
@@ -313,81 +286,115 @@ Package ifvtex Info: VTeX not detected.
 (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count89
-\Gm@cntv=\count90
-\c@Gm@tempcnt=\count91
-\Gm@bindingoffset=\dimen110
-\Gm@wd@mp=\dimen111
-\Gm@odd@mp=\dimen112
-\Gm@even@mp=\dimen113
-\Gm@layoutwidth=\dimen114
-\Gm@layoutheight=\dimen115
-\Gm@layouthoffset=\dimen116
-\Gm@layoutvoffset=\dimen117
-\Gm@dimlist=\toks21
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks17
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count92
-\calc@Bcount=\count93
-\calc@Adimen=\dimen118
-\calc@Bdimen=\dimen119
-\calc@Askip=\skip45
-\calc@Bskip=\skip46
-LaTeX Info: Redefining \setlength on input line 76.
-LaTeX Info: Redefining \addtolength on input line 77.
-\calc@Ccount=\count94
-\calc@Cskip=\skip47
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
-\MT@toks=\toks22
-\MT@count=\count95
-LaTeX Info: Redefining \textls on input line 766.
-\MT@outer@kern=\dimen120
-LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
-\MT@listname@count=\count96
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
 
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
 
-LaTeX Info: Redefining \lsstyle on input line 915.
-LaTeX Info: Redefining \lslig on input line 915.
-\MT@outer@space=\skip48
-)
-Package microtype Info: Loading configuration file microtype.cfg.
-
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen113
 ))
-(./mash-cleaning.aux)
-\openout1 = `mash-cleaning.aux'.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen114
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen115
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks19
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks20
+\eqnshift@=\dimen116
+\alignsep@=\dimen117
+\tagshift@=\dimen118
+\tagwidth@=\dimen119
+\totwidth@=\dimen120
+\lineht@=\dimen121
+\@envbody=\toks21
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(./mash-cleaning-20141031.aux)
+\openout1 = `mash-cleaning-20141031.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count97
-\scratchdimen=\dimen121
-\scratchbox=\box27
-\nofMPsegments=\count98
-\nofMParguments=\count99
+\scratchcounter=\count103
+\scratchdimen=\dimen122
+\scratchbox=\box28
+\nofMPsegments=\count104
+\nofMParguments=\count105
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count100
-\MPscratchDim=\dimen122
-\MPnumerator=\count101
-\makeMPintoPDFobject=\count102
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen123
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
 \everyMPtoPDFconversion=\toks24
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -440,20 +447,20 @@ e
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: includefoot 
-* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
-* v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=512.14963pt
-* \textheight=751.07751pt
-* \oddsidemargin=-29.59087pt
-* \evensidemargin=-29.59087pt
-* \topmargin=-66.59087pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
-* \footskip=8.61108pt
+* \footskip=30.0pt
 * \marginparwidth=57.0pt
 * \marginparsep=11.0pt
 * \columnsep=10.0pt
@@ -467,122 +474,88 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 13.
-Package microtype Info: Generating PDF output.
-Package microtype Info: Character protrusion enabled (level 2).
-Package microtype Info: Using default protrusion set `alltext'.
-Package microtype Info: Automatic font expansion enabled (level 2),
-(microtype)             stretch: 0, shrink: 50, step: 1, non-selected.
-Package microtype Info: Using default expansion set `basictext'.
-Package microtype Info: Tracking enabled.
-Package microtype Info: Using tracking set `all'.
-Package microtype Info: No adjustment of interword spacing.
-Package microtype Info: No adjustment of character kerning.
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
+LaTeX Font Info:    Try loading font information for U+msa on input line 33.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 15.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 15.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 20.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 20.
+LaTeX Font Info:    Try loading font information for U+msb on input line 33.
 
-<./mash-cleaning-schematic-1.png, id=1, 873.2625pt x 456.70625pt>
-File: ./mash-cleaning-schematic-1.png Graphic file (type png)
-
-<use ./mash-cleaning-schematic-1.png>
-Package pdftex.def Info: ./mash-cleaning-schematic-1.png used on input line 30.
-
-(pdftex.def)             Requested size: 512.14963pt x 267.85153pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 36.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
+<./mash-cleaning-01.png, id=1, 847.165pt x 430.60875pt>
+File: ./mash-cleaning-01.png Graphic file (type png)
 
-<./mash-cleaning-schematic-2-gas-to-ext-tank.png, id=3, 873.2625pt x 456.70625p
-t>
-File: ./mash-cleaning-schematic-2-gas-to-ext-tank.png Graphic file (type png)
- <use ./mash-cleaning-schematic-2-gas-to-ext-tank.png>
-Package pdftex.def Info: ./mash-cleaning-schematic-2-gas-to-ext-tank.png used o
-n input line 48.
-(pdftex.def)             Requested size: 512.14963pt x 267.85153pt.
-
-<./mash-cleaning-schematic-3-pump-gas-to-ext-tank.png, id=4, 873.2625pt x 456.7
-0625pt>
-File: ./mash-cleaning-schematic-3-pump-gas-to-ext-tank.png Graphic file (type p
-ng)
- <use ./mash-cleaning-schematic-3-pump-gas-to-ext-tank.png>
-Package pdftex.def Info: ./mash-cleaning-schematic-3-pump-gas-to-ext-tank.png u
-sed on input line 56.
-(pdftex.def)             Requested size: 512.14963pt x 267.85153pt.
-
-<./mash-cleaning-schematic-4-gas-to-t1.png, id=5, 873.2625pt x 456.70625pt>
-File: ./mash-cleaning-schematic-4-gas-to-t1.png Graphic file (type png)
-
-<use ./mash-cleaning-schematic-4-gas-to-t1.png>
-Package pdftex.def Info: ./mash-cleaning-schematic-4-gas-to-t1.png used on inpu
-t line 65.
-(pdftex.def)             Requested size: 512.14963pt x 267.85153pt.
-
-<./mash-cleaning-schematic-5-pump-gas-to-t1.png, id=6, 873.2625pt x 456.70625pt
->
-File: ./mash-cleaning-schematic-5-pump-gas-to-t1.png Graphic file (type png)
- <use ./mash-cleaning-schematic-5-pump-gas-to-t1.png>
-Package pdftex.def Info: ./mash-cleaning-schematic-5-pump-gas-to-t1.png used on
- input line 74.
-(pdftex.def)             Requested size: 512.14963pt x 267.85153pt.
-
-<./mash-cleaning-schematic-6-repeat.png, id=7, 973.6375pt x 456.70625pt>
-File: ./mash-cleaning-schematic-6-repeat.png Graphic file (type png)
-
-<use ./mash-cleaning-schematic-6-repeat.png>
-Package pdftex.def Info: ./mash-cleaning-schematic-6-repeat.png used on input l
-ine 82.
-(pdftex.def)             Requested size: 512.14963pt x 240.2343pt.
-
-<./mash-cleaning-schematic-7-measure-trapped-gas.png, id=8, 873.2625pt x 456.70
-625pt>
-File: ./mash-cleaning-schematic-7-measure-trapped-gas.png Graphic file (type pn
-g)
- <use ./mash-cleaning-schematic-7-measure-trapped-gas.png>
-Package pdftex.def Info: ./mash-cleaning-schematic-7-measure-trapped-gas.png us
-ed on input line 91.
-(pdftex.def)             Requested size: 512.14963pt x 267.85153pt.
+<use ./mash-cleaning-01.png>
+Package pdftex.def Info: ./mash-cleaning-01.png used on input line 48.
+(pdftex.def)             Requested size: 452.9679pt x 230.2387pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./mash-cleaning-schematic-
-1.png>]
-[2 <./mash-cleaning-schematic-2-gas-to-ext-tank.png> <./mash-cleaning-schematic
--3-pump-gas-to-ext-tank.png>] [3 <./mash-cleaning-schematic-4-gas-to-t1.png> <.
-/mash-cleaning-schematic-5-pump-gas-to-t1.png>] [4 <./mash-cleaning-schematic-6
--repeat.png> <./mash-cleaning-schematic-7-measure-trapped-gas.png>]
-(./mash-cleaning.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./mash-cleaning-01.png>]
+<./mash-cleaning-02.png, id=17, 847.165pt x 430.60875pt>
+File: ./mash-cleaning-02.png Graphic file (type png)
+
+<use ./mash-cleaning-02.png>
+Package pdftex.def Info: ./mash-cleaning-02.png used on input line 65.
+(pdftex.def)             Requested size: 452.9679pt x 230.2387pt.
+
+<./mash-cleaning-03.png, id=18, 847.165pt x 430.60875pt>
+File: ./mash-cleaning-03.png Graphic file (type png)
+
+<use ./mash-cleaning-03.png>
+Package pdftex.def Info: ./mash-cleaning-03.png used on input line 73.
+(pdftex.def)             Requested size: 452.9679pt x 230.2387pt.
+
+<./mash-cleaning-04.png, id=19, 847.165pt x 430.60875pt>
+File: ./mash-cleaning-04.png Graphic file (type png)
+
+<use ./mash-cleaning-04.png>
+Package pdftex.def Info: ./mash-cleaning-04.png used on input line 82.
+(pdftex.def)             Requested size: 452.9679pt x 230.2387pt.
+
+<./mash-cleaning-05.png, id=20, 847.165pt x 430.60875pt>
+File: ./mash-cleaning-05.png Graphic file (type png)
+
+<use ./mash-cleaning-05.png>
+Package pdftex.def Info: ./mash-cleaning-05.png used on input line 91.
+(pdftex.def)             Requested size: 452.9679pt x 230.2387pt.
+
+<./mash-cleaning-06.png, id=21, 847.165pt x 430.60875pt>
+File: ./mash-cleaning-06.png Graphic file (type png)
+
+<use ./mash-cleaning-06.png>
+Package pdftex.def Info: ./mash-cleaning-06.png used on input line 99.
+(pdftex.def)             Requested size: 452.9679pt x 230.2387pt.
+
+<./mash-cleaning-07.png, id=22, 847.165pt x 430.60875pt>
+File: ./mash-cleaning-07.png Graphic file (type png)
+
+<use ./mash-cleaning-07.png>
+Package pdftex.def Info: ./mash-cleaning-07.png used on input line 108.
+(pdftex.def)             Requested size: 452.9679pt x 230.2387pt.
+ [2 <./mash-cleaning-02.png> <./mash-cleaning-03.png>] [3 <./mash-cleaning-04.p
+ng> <./mash-cleaning-05.png>] [4 <./mash-cleaning-06.png> <./mash-cleaning-07.p
+ng>] (./mash-cleaning-20141031.aux) ) 
 Here is how much of TeX's memory you used:
- 4604 strings out of 495031
- 73195 string characters out of 6181531
- 175591 words of memory out of 5000000
- 7702 multiletter control sequences out of 15000+600000
- 14587 words of font info for 64 fonts, out of 8000000 for 9000
+ 3113 strings out of 495031
+ 41134 string characters out of 6181531
+ 103088 words of memory out of 5000000
+ 6257 multiletter control sequences out of 15000+600000
+ 11687 words of font info for 45 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 42i,6n,53p,261b,281s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on mash-cleaning.pdf (4 pages, 255429 bytes).
+ 38i,6n,32p,347b,225s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on mash-cleaning-20141031.pdf (4 pages, 292742 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 64 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 23588 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
